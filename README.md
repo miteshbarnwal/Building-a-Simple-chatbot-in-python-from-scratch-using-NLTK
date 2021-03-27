@@ -1,1 +1,1 @@
-# Building-a-Simple-chatbot-in-python-from-scratch-using-NLTK
+# Building-a-chatbot-in-python-using-NLTK
